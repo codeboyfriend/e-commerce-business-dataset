@@ -1,6 +1,9 @@
 ## Analysis for an E-commerce Business
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up an e-commerce business database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
+This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze sales data. The project involves setting up an e-commerce business database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
+
+<img width="1271" height="463" alt="Screenshot 2025-10-17 164224" src="https://github.com/user-attachments/assets/0f3e4175-59a4-4bb3-9c18-74fdc06520eb" />
+
 
 ### 1. Data Exploration & Cleaning
 
@@ -36,7 +39,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
         Country	IS NULL;
 ```
 
-### 1. Data Analysis & Findings
+### 2. Data Analysis & Findings
 
 The following SQL queries were developed to answer specific business questions:
 
